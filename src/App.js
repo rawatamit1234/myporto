@@ -5,7 +5,6 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Testimonial from "./components/Testimonial";
 import Contact from "./components/Contact";
-import Counter from "./components/Counter"
 function App() {
   return (
     <div className="App">
